@@ -36,5 +36,5 @@ samples/ # Example images (input/output)
 # Install dependencies
 pip install -r requirements.txt 
 # Clone the repository
-git clone https://github.com/maciano4/ImageRestorationAI.git
+git clone https://github.com/maciano4/Generative-AI-System-for-Image-Restoration-and-Enhancement
 cd ImageRestorationAI
